@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/선언/Split Declaration" />
+    <ignoreAction name="Java/동시성/atomic으로 변환" />
+  </component>
+</application>
