@@ -1,5 +1,10 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="파일 '…\src\main\java\com\ntigo\study\effectivejava3rd\Launcher.java [effective-java-3rd.main]'" />
+    <option name="defaultScopeName" value="파일 '…\src\main\java\com\ntigo\study\effectivejava3rd\Launcher.java [effective-java-3rd.main]'" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="SEARCH_SCOPE" value="파일 '…\src\main\java\com\ntigo\study\effectivejava3rd\Launcher.java [effective-java-3rd.main]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
