@@ -1,0 +1,37 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="4379" />
+    <option name="newTranslationDialogY" value="789" />
+    <histories>
+      <item value="return" />
+      <item value="반환" />
+      <item value="반환 타입에 하위 타입 객체를 반환할 수 있다" />
+      <item value="반환 타입에 하위 타입 객체를 반환할 수 있다." />
+      <item value="오늘은 피곤하다." />
+      <item value="ㅋㅋㅋㅋㅋㅋㅋㅋ" />
+      <item value="d" />
+      <item value="Baseball Association" />
+      <item value="JB Member" />
+      <item value="Supplier Test" />
+      <item value="Block Instance" />
+      <item value="Spell Checker" />
+      <item value="Strings" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="12" />
+        <entry key="KOREAN" value="13" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1668620949628" />
+  </component>
+  <component name="Settings">
+    <option name="showExplanation" value="true" />
+    <option name="showWordsOnStartup" value="true" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
