@@ -2,4 +2,7 @@
   <component name="CodeVisionSettings">
     <option name="enabled" value="false" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+  </component>
 </application>
