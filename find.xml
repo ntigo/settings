@@ -1,10 +1,5 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="프로젝트 'JUnit5-Demonstration'" />
-    <option name="defaultScopeName" value="프로젝트 'JUnit5-Demonstration'" />
-    <option name="skipResultsWithOneUsage" value="true" />
-    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="프로젝트 'JUnit5-Demonstration'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
