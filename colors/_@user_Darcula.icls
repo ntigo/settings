@@ -3,8 +3,9 @@
     <property name="created">2022-12-20T14:22:22</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.3.0.0</property>
-    <property name="modified">2022-12-20T14:32:11</property>
+    <property name="modified">2022-12-20T16:43:11</property>
     <property name="originalScheme">Darcula</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e887" />
