@@ -1,5 +1,6 @@
 <application>
   <component name="GrepConsole">
+    <option name="allowRunConfigurationChanges" value="false" />
     <option name="profiles">
       <list>
         <Profile>
@@ -158,5 +159,6 @@
         </Profile>
       </list>
     </option>
+    <option name="version" value="2" />
   </component>
 </application>
