@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'KGWADMIN'" />
-    <option name="defaultScopeName" value="Project 'KGWADMIN'" />
-    <option name="SEARCH_SCOPE" value="Project 'KGWADMIN'" />
+    <option name="customScope" value="Directory '…\src\main\java\com\coopnc\kgw\admin [KGWADMIN.main]'" />
+    <option name="defaultScopeName" value="Directory '…\src\main\java\com\coopnc\kgw\admin [KGWADMIN.main]'" />
+    <option name="SEARCH_SCOPE" value="Directory '…\src\main\java\com\coopnc\kgw\admin [KGWADMIN.main]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
