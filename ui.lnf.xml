@@ -5,7 +5,6 @@
     <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
   </component>
   <component name="UISettings">
-    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>
 </application>
