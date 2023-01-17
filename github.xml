@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="ntigo" id="c9118a7f-93b4-4677-90f2-1ac460ec77ee">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
