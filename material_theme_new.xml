@@ -1,0 +1,19 @@
+<application>
+  <component name="MaterialThemeNewConfig">
+    <option name="accentState">
+      <MTAccentConfigState>
+        <option name="accentColorHex" value="6b9bfa" />
+      </MTAccentConfigState>
+    </option>
+    <option name="metadata">
+      <MTMetadataState>
+        <option name="userId" value="5746d10:18ee10c535e:-8000" />
+      </MTMetadataState>
+    </option>
+    <option name="themeState">
+      <MTThemeConfigState>
+        <option name="selectedThemeName" value="NATIVE" />
+      </MTThemeConfigState>
+    </option>
+  </component>
+</application>
