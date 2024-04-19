@@ -42,6 +42,7 @@
     <option name="translationDialogLocationX" value="-1261" />
     <option name="translationDialogLocationY" value="485" />
     <histories>
+      <item value="Sets the default timeout for complete calls. A value of 0 means no timeout, otherwise values must be between 1 and Integer. MAX_VALUE when converted to milliseconds. The call timeout spans the entire call: resolving DNS, connecting, writing the request body, server processing, and reading the response body. If the call requires redirects or retries all must complete within one timeout period. The default value is 0 which imposes no timeout." />
       <item value="failed to start for run the server" />
       <item value="failed to start for run the" />
       <item value="failed to start for run " />
@@ -66,8 +67,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="8" />
-        <entry key="KOREAN" value="8" />
+        <entry key="ENGLISH" value="9" />
+        <entry key="KOREAN" value="9" />
       </map>
     </option>
   </component>
