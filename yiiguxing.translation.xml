@@ -35,13 +35,14 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1713176799947" />
+    <option name="lastTrimTime" value="1713847537241" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="-1261" />
     <option name="translationDialogLocationY" value="485" />
     <histories>
+      <item value="validate" />
       <item value="Sorry, this pull request couldn’t be reverted automatically. It may have already been reverted, or the content may have changed since it was merged." />
       <item value="Sets the default timeout for complete calls. A value of 0 means no timeout, otherwise values must be between 1 and Integer. MAX_VALUE when converted to milliseconds. The call timeout spans the entire call: resolving DNS, connecting, writing the request body, server processing, and reading the response body. If the call requires redirects or retries all must complete within one timeout period. The default value is 0 which imposes no timeout." />
       <item value="failed to start for run the server" />
@@ -68,8 +69,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="10" />
-        <entry key="KOREAN" value="10" />
+        <entry key="ENGLISH" value="11" />
+        <entry key="KOREAN" value="11" />
       </map>
     </option>
   </component>
