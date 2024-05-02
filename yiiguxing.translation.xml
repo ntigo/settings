@@ -35,13 +35,17 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1713847537241" />
+    <option name="lastTrimTime" value="1714626349548" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="-1261" />
     <option name="translationDialogLocationY" value="485" />
     <histories>
+      <item value="changed primitive to wrapper type to use null values'" />
+      <item value="changed primitive type to wrapper type to use null values'" />
+      <item value="changed wrapper type to use null values'" />
+      <item value="wrapper type to use null values" />
       <item value="AWS Credentials Properties are only for testing. Remove it and set to OS environment" />
       <item value="java.util.concurrent.CompletionException: software.amazon.awssdk.services.sns.model.AuthorizationErrorException: User: arn:aws:sts::418090574289:assumed-rolestaging-finance-nodegroup-iam-rolei-0ea60095626b4e9ee is not authorized to perform: SNS:Publish on resource: arn:aws:sns:ap-northeast-2:418090574289:staging-giftyo-topic because no identity-based policy allows the SNS:Publish action" />
       <item value="AwsCredentialsProvider implementation that chains together multiple credentials providers. When a caller first requests credentials from this provider, it calls all the providers in the chain, in the original order specified, until one can provide credentials, and then returns those credentials. If all of the credential providers in the chain have been called, and none of them can provide credentials, then this class will throw an exception indicated that no credentials are available. By default, this class will remember the first credentials provider in the chain that was able to provide credentials, and will continue to use that provider when credentials are requested in the future, instead of traversing the chain each time. This behavior can be controlled through the AwsCredentialsProviderChain. Builder. reuseLastProviderEnabled(Boolean) method. This chain implements AutoCloseable. When closed, it will call the AutoCloseable. close() on any credential providers in the chain that need to be closed." />
@@ -72,8 +76,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="14" />
-        <entry key="KOREAN" value="14" />
+        <entry key="ENGLISH" value="18" />
+        <entry key="KOREAN" value="18" />
       </map>
     </option>
   </component>
