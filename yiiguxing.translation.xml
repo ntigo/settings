@@ -42,6 +42,7 @@
     <option name="translationDialogLocationX" value="-1261" />
     <option name="translationDialogLocationY" value="485" />
     <histories>
+      <item value="change the encoding method by including '' character when creating a file name" />
       <item value="SSL Certificate verification is disabled. This is not a safe setting and should only be used for testing." />
       <item value="Parameter specified as non-null is null" />
       <item value="changed primitive to wrapper type to use null values'" />
@@ -78,8 +79,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="20" />
-        <entry key="KOREAN" value="20" />
+        <entry key="ENGLISH" value="21" />
+        <entry key="KOREAN" value="21" />
       </map>
     </option>
   </component>
