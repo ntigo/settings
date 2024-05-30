@@ -35,13 +35,20 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1715067174631" />
+    <option name="lastTrimTime" value="1717051682038" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="utilities" />
+      <item value="utiliti" />
+      <item value="utillities" />
+      <item value="utill" />
+      <item value="util" />
+      <item value="uti" />
+      <item value="u" />
       <item value="change the encoding method by including '' character when creating a file name" />
       <item value="SSL Certificate verification is disabled. This is not a safe setting and should only be used for testing." />
       <item value="Parameter specified as non-null is null" />
@@ -79,8 +86,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="21" />
-        <entry key="KOREAN" value="21" />
+        <entry key="ENGLISH" value="22" />
+        <entry key="KOREAN" value="23" />
       </map>
     </option>
   </component>
