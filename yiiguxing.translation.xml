@@ -39,8 +39,8 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="-1261" />
-    <option name="translationDialogLocationY" value="485" />
+    <option name="translationDialogLocationX" value="659" />
+    <option name="translationDialogLocationY" value="389" />
     <histories>
       <item value="change the encoding method by including '' character when creating a file name" />
       <item value="SSL Certificate verification is disabled. This is not a safe setting and should only be used for testing." />
