@@ -42,6 +42,9 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="sonarqube 발생 이슈 처리 " />
+      <item value="sonarqube 발새" />
+      <item value="sonarqube" />
       <item value="HTTP 서버를 구동하는데 실패하였습니다." />
       <item value="HTTP 서버를 구동하는데 " />
       <item value="서버를 구동하는데 " />
@@ -92,8 +95,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="27" />
-        <entry key="KOREAN" value="28" />
+        <entry key="ENGLISH" value="32" />
+        <entry key="KOREAN" value="33" />
       </map>
     </option>
   </component>
