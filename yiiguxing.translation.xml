@@ -42,6 +42,9 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="HTTP 서버를 구동하는데 실패하였습니다." />
+      <item value="HTTP 서버를 구동하는데 " />
+      <item value="서버를 구동하는데 " />
       <item value="dbcp 기본 구조 개바" />
       <item value="dbcp 기본 구조 개발" />
       <item value="dbcp 기본 구성" />
