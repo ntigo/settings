@@ -35,13 +35,16 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1717570130878" />
+    <option name="lastTrimTime" value="1718601766389" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="동시성 이슈 수정" />
+      <item value="동시성 이슈 처리" />
+      <item value="ㄷ" />
       <item value="sonarqube 발생 이슈 처리 " />
       <item value="sonarqube 발새" />
       <item value="sonarqube" />
@@ -89,9 +92,6 @@
       <item value="ready to start" />
       <item value="d" />
       <item value="Compares this URL for equality with another object.&lt;p&gt; If the given object is not a URL then this method immediately returns {@code false}.&lt;p&gt; Two URL objects are equal if they have the same protocol, reference equivalent hosts, have the same port number on the host, and the same file and fragment of the file.&lt;p&gt; Two hosts are considered equivalent if both host names can be resolved into the same IP addresses; else if either host name can't be resolved, the host names must be equal without regard to case; or both host names equal to null.&lt;p&gt; Since hosts comparison requires name resolution, this operation is a blocking operation. &lt;p&gt; Note: The defined behavior for {@code equals} is known to be inconsistent with virtual hosting in HTTP." />
-      <item value="Note: The defined behavior for {@code equals} is known to be inconsistent with virtual hosting in HTTP." />
-      <item value="'throw' inside 'finally' block" />
-      <item value="Caught exception 'e' is immediately rethrown" />
     </histories>
     <option name="languageScores">
       <map>
