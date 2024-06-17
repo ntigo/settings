@@ -42,6 +42,12 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="draft number generator for coupon number issue" />
+      <item value="draft number generator for coupon num" />
+      <item value="draft number ge" />
+      <item value="draft number " />
+      <item value="draft " />
+      <item value="dra" />
       <item value="동시성 이슈 수정" />
       <item value="동시성 이슈 처리" />
       <item value="ㄷ" />
@@ -86,17 +92,11 @@
       <item value="ready to start for run" />
       <item value="ready to start " />
       <item value="ready to start for sa" />
-      <item value="ready to start for sam" />
-      <item value="ready to start for same" />
-      <item value="ready to start for " />
-      <item value="ready to start" />
-      <item value="d" />
-      <item value="Compares this URL for equality with another object.&lt;p&gt; If the given object is not a URL then this method immediately returns {@code false}.&lt;p&gt; Two URL objects are equal if they have the same protocol, reference equivalent hosts, have the same port number on the host, and the same file and fragment of the file.&lt;p&gt; Two hosts are considered equivalent if both host names can be resolved into the same IP addresses; else if either host name can't be resolved, the host names must be equal without regard to case; or both host names equal to null.&lt;p&gt; Since hosts comparison requires name resolution, this operation is a blocking operation. &lt;p&gt; Note: The defined behavior for {@code equals} is known to be inconsistent with virtual hosting in HTTP." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="32" />
-        <entry key="KOREAN" value="33" />
+        <entry key="KOREAN" value="34" />
       </map>
     </option>
   </component>
