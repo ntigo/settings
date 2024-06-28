@@ -35,13 +35,18 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1718601766389" />
+    <option name="lastTrimTime" value="1719552101007" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="구조 수정 작업 및 기본 핸들러 추가" />
+      <item value="구조 수정 작업 및 기본 핸들러" />
+      <item value="구조 수정 작업 및 기보" />
+      <item value="r" />
+      <item value="Throughput" />
       <item value="draft number generator for coupon number issue" />
       <item value="draft number generator for coupon num" />
       <item value="draft number ge" />
@@ -87,16 +92,11 @@
       <item value="failed to start for r" />
       <item value="failed to start for run" />
       <item value="failed to start fo" />
-      <item value="failed to start" />
-      <item value="fa" />
-      <item value="ready to start for run" />
-      <item value="ready to start " />
-      <item value="ready to start for sa" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="32" />
-        <entry key="KOREAN" value="34" />
+        <entry key="ENGLISH" value="33" />
+        <entry key="KOREAN" value="36" />
       </map>
     </option>
   </component>
