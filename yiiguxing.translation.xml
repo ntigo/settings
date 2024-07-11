@@ -42,6 +42,9 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="getDateByString&#10;" />
+      <item value="getDateByString" />
+      <item value="get" />
       <item value="Class 'BTimeUnit' is exposed outside its defined visibility scope " />
       <item value="it is not available time zone id. Please check the setting of TIME_ZONE_ID." />
       <item value="is not available time zone id. Please check the setting of TIME_ZONE_ID." />
@@ -89,14 +92,11 @@
       <item value="AwsCredentialsProvider implementation that chains together multiple credentials providers. When a caller first requests credentials from this provider, it calls all the providers in the chain, in the original order specified, until one can provide credentials, and then returns those credentials. If all of the credential providers in the chain have been called, and none of them can provide credentials, then this class will throw an exception indicated that no credentials are available. By default, this class will remember the first credentials provider in the chain that was able to provide credentials, and will continue to use that provider when credentials are requested in the future, instead of traversing the chain each time. This behavior can be controlled through the AwsCredentialsProviderChain. Builder. reuseLastProviderEnabled(Boolean) method. This chain implements AutoCloseable. When closed, it will call the AutoCloseable. close() on any credential providers in the chain that need to be closed." />
       <item value="validate" />
       <item value="Sorry, this pull request couldn’t be reverted automatically. It may have already been reverted, or the content may have changed since it was merged." />
-      <item value="Sets the default timeout for complete calls. A value of 0 means no timeout, otherwise values must be between 1 and Integer. MAX_VALUE when converted to milliseconds. The call timeout spans the entire call: resolving DNS, connecting, writing the request body, server processing, and reading the response body. If the call requires redirects or retries all must complete within one timeout period. The default value is 0 which imposes no timeout." />
-      <item value="failed to start for run the server" />
-      <item value="failed to start for run the" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="34" />
-        <entry key="KOREAN" value="38" />
+        <entry key="KOREAN" value="39" />
       </map>
     </option>
   </component>
