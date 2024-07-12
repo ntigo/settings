@@ -39,9 +39,10 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="659" />
-    <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="DateTime 관련 기능들을 통합하였다." />
+      <item value="DateTime 관련 기능" />
+      <item value="Date" />
       <item value="get date time string by pattern" />
       <item value="Temporal" />
       <item value="int" />
@@ -89,14 +90,11 @@
       <item value="changed primitive to wrapper type to use null values'" />
       <item value="changed primitive type to wrapper type to use null values'" />
       <item value="changed wrapper type to use null values'" />
-      <item value="wrapper type to use null values" />
-      <item value="AWS Credentials Properties are only for testing. Remove it and set to OS environment" />
-      <item value="java.util.concurrent.CompletionException: software.amazon.awssdk.services.sns.model.AuthorizationErrorException: User: arn:aws:sts::418090574289:assumed-rolestaging-finance-nodegroup-iam-rolei-0ea60095626b4e9ee is not authorized to perform: SNS:Publish on resource: arn:aws:sns:ap-northeast-2:418090574289:staging-giftyo-topic because no identity-based policy allows the SNS:Publish action" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="39" />
-        <entry key="KOREAN" value="39" />
+        <entry key="ENGLISH" value="44" />
+        <entry key="KOREAN" value="44" />
       </map>
     </option>
   </component>
