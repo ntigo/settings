@@ -42,6 +42,19 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="DateTimeManger에 getTimeString 기능을 추가하고 관련 사용 클래스를 수정하였음." />
+      <item value="DateTimeManger에 getTimeString 기능을 추가하고 관련 사용 클래스를 수정하였음. 사용 기능 수정 " />
+      <item value="DateTimeManger에 getTimeString 기능을 추가하고 관련 사용 클래스 사용 기능 수정 " />
+      <item value="DateTimeManger에 getTimeString 기능을 추가하고 관련 사용 기능 수정 " />
+      <item value="DateTimeManger에 getTimeString 기능을 추가하고 사 사용 기능 수정 " />
+      <item value="DateTimeManger에 getTimeString 기능을 추가하고 관련 클래 사용 기능 수정 " />
+      <item value="DateTimeManger에 getTime 사용 기능 수정 " />
+      <item value="DateTimeManger에  사용 기능 수정 " />
+      <item value="DateTimeManger 사용 기능 수정 " />
+      <item value="DateTimeManger 사용 " />
+      <item value="DateTimeManger 관련 클래스 " />
+      <item value="Dat" />
+      <item value="d" />
       <item value="DateTime 관련 기능들을 통합하였다." />
       <item value="DateTime 관련 기능" />
       <item value="Date" />
@@ -79,24 +92,11 @@
       <item value="dbcp 기본 구조 개바" />
       <item value="dbcp 기본 구조 개발" />
       <item value="dbcp 기본 구성" />
-      <item value="utilities" />
-      <item value="utiliti" />
-      <item value="utillities" />
-      <item value="utill" />
-      <item value="util" />
-      <item value="uti" />
-      <item value="u" />
-      <item value="change the encoding method by including '' character when creating a file name" />
-      <item value="SSL Certificate verification is disabled. This is not a safe setting and should only be used for testing." />
-      <item value="Parameter specified as non-null is null" />
-      <item value="changed primitive to wrapper type to use null values'" />
-      <item value="changed primitive type to wrapper type to use null values'" />
-      <item value="changed wrapper type to use null values'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="44" />
-        <entry key="KOREAN" value="44" />
+        <entry key="ENGLISH" value="54" />
+        <entry key="KOREAN" value="54" />
       </map>
     </option>
   </component>
