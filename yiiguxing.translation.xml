@@ -42,6 +42,15 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="config xml을 포함시키기 위해 빌드 스크립트를 수정" />
+      <item value="config xml을 포함시키기 위해 빌드 스크립트를 수정하였다." />
+      <item value="config xml을 포함시키기 위해 빌드 스크립트를 수정하아" />
+      <item value="config xml을 포함시키기 위해 빌드 스크립트" />
+      <item value="config xml을 포함시키기 위해 빌드" />
+      <item value="config xml을 포함시키기 위해 " />
+      <item value="config xml을 " />
+      <item value="config xml" />
+      <item value="con" />
       <item value="modify build script to generate fat jar file and apply spotless" />
       <item value="modif build script to generate fat jar file and apply spotless" />
       <item value="modifi build script to generate fat jar file and apply spotless" />
@@ -83,20 +92,11 @@
       <item value="c" />
       <item value="rawData includes identifier texts for &quot;ENC(&quot;, &quot;)&quot;" />
       <item value="rawData includes identifier texts for ENC()" />
-      <item value="rawData includes texts for ENC()" />
-      <item value="DateTimeManger에 getTimeString 기능을 추가하고 관련 사용 클래스를 수정하였음." />
-      <item value="DateTimeManger에 getTimeString 기능을 추가하고 관련 사용 클래스를 수정하였음. 사용 기능 수정 " />
-      <item value="DateTimeManger에 getTimeString 기능을 추가하고 관련 사용 클래스 사용 기능 수정 " />
-      <item value="DateTimeManger에 getTimeString 기능을 추가하고 관련 사용 기능 수정 " />
-      <item value="DateTimeManger에 getTimeString 기능을 추가하고 사 사용 기능 수정 " />
-      <item value="DateTimeManger에 getTimeString 기능을 추가하고 관련 클래 사용 기능 수정 " />
-      <item value="DateTimeManger에 getTime 사용 기능 수정 " />
-      <item value="DateTimeManger에  사용 기능 수정 " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="65" />
-        <entry key="KOREAN" value="67" />
+        <entry key="ENGLISH" value="70" />
+        <entry key="KOREAN" value="72" />
       </map>
     </option>
   </component>
