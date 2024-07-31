@@ -39,9 +39,38 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="659" />
-    <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="modify build script to generate fat jar file and apply spotless" />
+      <item value="modif build script to generate fat jar file and apply spotless" />
+      <item value="modifi build script to generate fat jar file and apply spotless" />
+      <item value="modified build script to generate fat jar file and apply spotless" />
+      <item value="Modify build script to generate fat jar file and apply spotless" />
+      <item value="Modi build script to generate fat jar file and apply spotless" />
+      <item value="fat jar 파일을 생성하도록 빌드 스크립트 수정 작업 및 스팟리스 적용 작업" />
+      <item value="fat jar 파일을 생성하도록 빌드 스크립트 수정 작업 및  스팟리스 적용 작업" />
+      <item value="fat jar 파일을 생성하도록 빌드 스크립트 수정 작업 및 와 스팟리스 적용 작업" />
+      <item value="fat jar 파일을 생성하도록 빌드 스크립트 수정와 스팟리스 적용 작업" />
+      <item value="fat jar 파일을 생성하도록 빌드 스크립트와 스팟리스 적용 작업" />
+      <item value="fat jar 파일을 생성하도록  빌드 스크립트와 스팟리스 적용 작업" />
+      <item value="fat jar 파일을 생성하도록 수정된 빌드 스크립트와 스팟리스 적용 작업" />
+      <item value="fat jar 파일을 생성하도록 수정된 빌드 스크립트와 " />
+      <item value="fat jar 파일을 생성하도록 수정된 빌드 스크립트" />
+      <item value="modifed build script to create fat jar file" />
+      <item value="modifed build script to create fat jar file " />
+      <item value="modifed build script to create fat jar file and applied spotless" />
+      <item value="modifed build script to create fat jar file and applied " />
+      <item value="modifed build script to create fat jar file and applied g" />
+      <item value="modifed build script to create fat jar file and appli" />
+      <item value="modifed build script to create fat jar file an" />
+      <item value="modifed build script to create fat jar file a" />
+      <item value="modife build script to create fat jar file" />
+      <item value="Change build script to create fat jar file" />
+      <item value="fat jar 파일 생성을 위한 빌드 스크립트 변경" />
+      <item value="fat jar 파일 생성을 " />
+      <item value="fat jar 파일 생성을 위해 빌드 스크립트 " />
+      <item value="fat jar 파일 생성을 위하" />
+      <item value="fat jar " />
+      <item value="fat" />
       <item value="unmappable character (0xEC) for encoding x-windows-949" />
       <item value="config에 jasypt 암호화 기능 추가 " />
       <item value="config에 jasypt 암호화 " />
@@ -61,42 +90,11 @@
       <item value="DateTimeManger에 getTimeString 기능을 추가하고 관련 클래 사용 기능 수정 " />
       <item value="DateTimeManger에 getTime 사용 기능 수정 " />
       <item value="DateTimeManger에  사용 기능 수정 " />
-      <item value="DateTimeManger 사용 기능 수정 " />
-      <item value="DateTimeManger 사용 " />
-      <item value="DateTimeManger 관련 클래스 " />
-      <item value="Dat" />
-      <item value="d" />
-      <item value="DateTime 관련 기능들을 통합하였다." />
-      <item value="DateTime 관련 기능" />
-      <item value="Date" />
-      <item value="get date time string by pattern" />
-      <item value="Temporal" />
-      <item value="int" />
-      <item value="getDateByString&#10;" />
-      <item value="getDateByString" />
-      <item value="get" />
-      <item value="Class 'BTimeUnit' is exposed outside its defined visibility scope " />
-      <item value="it is not available time zone id. Please check the setting of TIME_ZONE_ID." />
-      <item value="is not available time zone id. Please check the setting of TIME_ZONE_ID." />
-      <item value="&quot;is not available time zone id. Please check the setting of TIME_ZONE_ID." />
-      <item value="is not available time zone id. Please check the setting TIME_ZONE_ID." />
-      <item value="구조 수정 작업 및 기본 핸들러 추가" />
-      <item value="구조 수정 작업 및 기본 핸들러" />
-      <item value="구조 수정 작업 및 기보" />
-      <item value="r" />
-      <item value="Throughput" />
-      <item value="draft number generator for coupon number issue" />
-      <item value="draft number generator for coupon num" />
-      <item value="draft number ge" />
-      <item value="draft number " />
-      <item value="draft " />
-      <item value="dra" />
-      <item value="동시성 이슈 수정" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="60" />
-        <entry key="KOREAN" value="61" />
+        <entry key="ENGLISH" value="65" />
+        <entry key="KOREAN" value="67" />
       </map>
     </option>
   </component>
