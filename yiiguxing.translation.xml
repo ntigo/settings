@@ -42,6 +42,11 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="in progress" />
+      <item value="inprogress" />
+      <item value="progress" />
+      <item value="inpro" />
+      <item value="ㅑ" />
       <item value="애플리케이션 구동 스크립트 개발" />
       <item value="애플리케이션 구동 스크립트 " />
       <item value="start script" />
@@ -87,16 +92,11 @@
       <item value="modife build script to create fat jar file" />
       <item value="Change build script to create fat jar file" />
       <item value="fat jar 파일 생성을 위한 빌드 스크립트 변경" />
-      <item value="fat jar 파일 생성을 " />
-      <item value="fat jar 파일 생성을 위해 빌드 스크립트 " />
-      <item value="fat jar 파일 생성을 위하" />
-      <item value="fat jar " />
-      <item value="fat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="71" />
-        <entry key="KOREAN" value="73" />
+        <entry key="ENGLISH" value="72" />
+        <entry key="KOREAN" value="74" />
       </map>
     </option>
   </component>
