@@ -35,13 +35,24 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1722405119689" />
+    <option name="lastTrimTime" value="1723522859132" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="It's fantastic golf time." />
+      <item value="It's fantastic " />
+      <item value="It's fan" />
+      <item value="It's " />
+      <item value="It's c" />
+      <item value="It;" />
+      <item value="It" />
+      <item value="카멜리아에서 환상적인 골프 시간" />
+      <item value="카멜리아에서 환상적인 골프 ㅅ" />
+      <item value="카멜리아에서 확" />
+      <item value="카멜리아에서 " />
       <item value="in progress" />
       <item value="inprogress" />
       <item value="progress" />
@@ -81,22 +92,11 @@
       <item value="fat jar 파일을 생성하도록 수정된 빌드 스크립트와 스팟리스 적용 작업" />
       <item value="fat jar 파일을 생성하도록 수정된 빌드 스크립트와 " />
       <item value="fat jar 파일을 생성하도록 수정된 빌드 스크립트" />
-      <item value="modifed build script to create fat jar file" />
-      <item value="modifed build script to create fat jar file " />
-      <item value="modifed build script to create fat jar file and applied spotless" />
-      <item value="modifed build script to create fat jar file and applied " />
-      <item value="modifed build script to create fat jar file and applied g" />
-      <item value="modifed build script to create fat jar file and appli" />
-      <item value="modifed build script to create fat jar file an" />
-      <item value="modifed build script to create fat jar file a" />
-      <item value="modife build script to create fat jar file" />
-      <item value="Change build script to create fat jar file" />
-      <item value="fat jar 파일 생성을 위한 빌드 스크립트 변경" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="72" />
-        <entry key="KOREAN" value="74" />
+        <entry key="ENGLISH" value="74" />
+        <entry key="KOREAN" value="76" />
       </map>
     </option>
   </component>
