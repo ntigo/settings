@@ -35,13 +35,14 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1723522859132" />
+    <option name="lastTrimTime" value="1724483214776" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="659" />
-    <option name="translationDialogLocationY" value="389" />
+    <option name="translationDialogLocationX" value="979" />
+    <option name="translationDialogLocationY" value="569" />
     <histories>
+      <item value="isInitilized" />
       <item value="It's fantastic golf time." />
       <item value="It's fantastic " />
       <item value="It's fan" />
@@ -91,12 +92,11 @@
       <item value="fat jar 파일을 생성하도록  빌드 스크립트와 스팟리스 적용 작업" />
       <item value="fat jar 파일을 생성하도록 수정된 빌드 스크립트와 스팟리스 적용 작업" />
       <item value="fat jar 파일을 생성하도록 수정된 빌드 스크립트와 " />
-      <item value="fat jar 파일을 생성하도록 수정된 빌드 스크립트" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="74" />
-        <entry key="KOREAN" value="76" />
+        <entry key="ENGLISH" value="75" />
+        <entry key="KOREAN" value="77" />
       </map>
     </option>
   </component>
