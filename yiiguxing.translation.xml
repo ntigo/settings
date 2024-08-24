@@ -42,6 +42,20 @@
     <option name="translationDialogLocationX" value="979" />
     <option name="translationDialogLocationY" value="569" />
     <histories>
+      <item value="DBCP 커넥션풀 구성 연결대기 기능 및 전체 프로젝트 오탈자 및 구조 개선" />
+      <item value="DBCP 커넥션풀 구성 연결대기 기능 및 전체 프로젝트 오탈자 및 " />
+      <item value="DBCP 커넥션풀 구성 연결대기 기능 및 전체 프로젝트 오탈" />
+      <item value="DBCP 커넥션풀 구성 연결대기 기능 및 오" />
+      <item value="DBCP 커넥션풀 구성 연결대기 기능 및 오탈자 수저" />
+      <item value="DBCP 커넥션풀 구성 연결대기 기능 및 " />
+      <item value="DBCP 커넥션풀 구성 연결대기" />
+      <item value="DBCP 커넥션풀 구서" />
+      <item value="DBCP " />
+      <item value="데이터베이스 세션 풀 구성을 초기화 중입니다." />
+      <item value="데이터베이스 세션 풀 " />
+      <item value="데이터베이스 세션 푸" />
+      <item value="데이터베이스 푸" />
+      <item value="초기화 진해" />
       <item value="isInitilized" />
       <item value="It's fantastic golf time." />
       <item value="It's fantastic " />
@@ -78,25 +92,11 @@
       <item value="config xml을 " />
       <item value="config xml" />
       <item value="con" />
-      <item value="modify build script to generate fat jar file and apply spotless" />
-      <item value="modif build script to generate fat jar file and apply spotless" />
-      <item value="modifi build script to generate fat jar file and apply spotless" />
-      <item value="modified build script to generate fat jar file and apply spotless" />
-      <item value="Modify build script to generate fat jar file and apply spotless" />
-      <item value="Modi build script to generate fat jar file and apply spotless" />
-      <item value="fat jar 파일을 생성하도록 빌드 스크립트 수정 작업 및 스팟리스 적용 작업" />
-      <item value="fat jar 파일을 생성하도록 빌드 스크립트 수정 작업 및  스팟리스 적용 작업" />
-      <item value="fat jar 파일을 생성하도록 빌드 스크립트 수정 작업 및 와 스팟리스 적용 작업" />
-      <item value="fat jar 파일을 생성하도록 빌드 스크립트 수정와 스팟리스 적용 작업" />
-      <item value="fat jar 파일을 생성하도록 빌드 스크립트와 스팟리스 적용 작업" />
-      <item value="fat jar 파일을 생성하도록  빌드 스크립트와 스팟리스 적용 작업" />
-      <item value="fat jar 파일을 생성하도록 수정된 빌드 스크립트와 스팟리스 적용 작업" />
-      <item value="fat jar 파일을 생성하도록 수정된 빌드 스크립트와 " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="75" />
-        <entry key="KOREAN" value="77" />
+        <entry key="ENGLISH" value="80" />
+        <entry key="KOREAN" value="82" />
       </map>
     </option>
   </component>
