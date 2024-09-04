@@ -42,13 +42,20 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="api uri 정리 및 api 번호 부여 작업" />
+      <item value="api uri 정리 및 " />
+      <item value="d" />
+      <item value="disAgre" />
+      <item value="disAgree" />
+      <item value="disA" />
+      <item value="disagree&#10;" />
+      <item value="disag" />
       <item value="export" />
       <item value="import" />
       <item value="impor" />
       <item value="출ㄱ" />
       <item value="출고" />
       <item value="입고" />
-      <item value="d" />
       <item value="마크다운 링크 이슈 수정" />
       <item value="마크다운 링크" />
       <item value="마크" />
@@ -85,18 +92,11 @@
       <item value="카멜리아에서 환상적인 골프 ㅅ" />
       <item value="카멜리아에서 확" />
       <item value="카멜리아에서 " />
-      <item value="in progress" />
-      <item value="inprogress" />
-      <item value="progress" />
-      <item value="inpro" />
-      <item value="ㅑ" />
-      <item value="애플리케이션 구동 스크립트 개발" />
-      <item value="애플리케이션 구동 스크립트 " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="85" />
-        <entry key="KOREAN" value="87" />
+        <entry key="ENGLISH" value="89" />
+        <entry key="KOREAN" value="92" />
       </map>
     </option>
   </component>
