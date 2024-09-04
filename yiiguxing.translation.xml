@@ -39,9 +39,16 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="-1261" />
-    <option name="translationDialogLocationY" value="485" />
+    <option name="translationDialogLocationX" value="659" />
+    <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="export" />
+      <item value="import" />
+      <item value="impor" />
+      <item value="출ㄱ" />
+      <item value="출고" />
+      <item value="입고" />
+      <item value="d" />
       <item value="마크다운 링크 이슈 수정" />
       <item value="마크다운 링크" />
       <item value="마크" />
@@ -85,18 +92,11 @@
       <item value="ㅑ" />
       <item value="애플리케이션 구동 스크립트 개발" />
       <item value="애플리케이션 구동 스크립트 " />
-      <item value="start script" />
-      <item value="start scrip" />
-      <item value="start scr" />
-      <item value="start " />
-      <item value="stat" />
-      <item value="프로세스가 이미 시작되어 있습니다." />
-      <item value="프로세스가 이미 시작되어 있" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="82" />
-        <entry key="KOREAN" value="84" />
+        <entry key="ENGLISH" value="85" />
+        <entry key="KOREAN" value="87" />
       </map>
     </option>
   </component>
