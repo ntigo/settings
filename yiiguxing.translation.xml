@@ -42,6 +42,7 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="Listens to the result of a ChannelFuture. The result of the asynchronous Channel I O operation is notified once this listener is added by calling ChannelFuture. addListener(GenericFutureListener). Return the control to the caller quickly operationComplete(Future) is directly called by an I O thread. Therefore, performing a time consuming task or a blocking operation in the handler method can cause an unexpected pause during I O. If you need to perform a blocking operation on I O completion, try to execute the operation in a different thread using a thread pool." />
       <item value="Fixed config loading issue when starting server" />
       <item value="서버 기동 시 컨피그 로딩 이슈 수정" />
       <item value="서버 기동 시 컨피그" />
@@ -91,11 +92,10 @@
       <item value="DBCP 커넥션풀 구서" />
       <item value="DBCP " />
       <item value="데이터베이스 세션 풀 구성을 초기화 중입니다." />
-      <item value="데이터베이스 세션 풀 " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="KOREAN" value="94" />
       </map>
     </option>
