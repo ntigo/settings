@@ -42,6 +42,10 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="invalid response code but nothing happens" />
+      <item value="유효하지 않은 응답 코드이지만 아무일도 일어나지 않습니다.&#10;" />
+      <item value="유효하지 않은 응답 코드이지만 아무일도 일어나지 않습니다." />
+      <item value="a" />
       <item value="already exists name but overwrite data" />
       <item value="&#10;Class can be record class " />
       <item value="Contents of collection 'apiNoMap' are updated, but never queried " />
@@ -88,15 +92,11 @@
       <item value="api uri 정리 및 " />
       <item value="d" />
       <item value="disAgre" />
-      <item value="disAgree" />
-      <item value="disA" />
-      <item value="disagree&#10;" />
-      <item value="disag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="105" />
-        <entry key="KOREAN" value="111" />
+        <entry key="ENGLISH" value="107" />
+        <entry key="KOREAN" value="114" />
       </map>
     </option>
   </component>
