@@ -42,6 +42,8 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="폴리싱 " />
+      <item value="Polishing " />
       <item value="패턴매칭을 통해 OGO 승인번호 검증" />
       <item value="패턴매칭을 통해 OGO 승인번호" />
       <item value="패턴매칭을 통해 오" />
@@ -90,13 +92,11 @@
       <item value="출고" />
       <item value="입고" />
       <item value="마크다운 링크 이슈 수정" />
-      <item value="마크다운 링크" />
-      <item value="마크" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="99" />
-        <entry key="KOREAN" value="102" />
+        <entry key="ENGLISH" value="103" />
+        <entry key="KOREAN" value="106" />
       </map>
     </option>
   </component>
