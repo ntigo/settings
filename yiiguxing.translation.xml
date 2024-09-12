@@ -42,6 +42,7 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="already exists name but overwrite data" />
       <item value="&#10;Class can be record class " />
       <item value="Contents of collection 'apiNoMap' are updated, but never queried " />
       <item value="not permission" />
@@ -91,12 +92,11 @@
       <item value="disA" />
       <item value="disagree&#10;" />
       <item value="disag" />
-      <item value="export" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="105" />
-        <entry key="KOREAN" value="110" />
+        <entry key="KOREAN" value="111" />
       </map>
     </option>
   </component>
