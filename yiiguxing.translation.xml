@@ -42,6 +42,12 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="&#10;Class can be record class " />
+      <item value="Contents of collection 'apiNoMap' are updated, but never queried " />
+      <item value="not permission" />
+      <item value="not permi" />
+      <item value="no permission" />
+      <item value="no " />
       <item value="폴리싱 " />
       <item value="Polishing " />
       <item value="패턴매칭을 통해 OGO 승인번호 검증" />
@@ -86,17 +92,11 @@
       <item value="disagree&#10;" />
       <item value="disag" />
       <item value="export" />
-      <item value="import" />
-      <item value="impor" />
-      <item value="출ㄱ" />
-      <item value="출고" />
-      <item value="입고" />
-      <item value="마크다운 링크 이슈 수정" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="103" />
-        <entry key="KOREAN" value="106" />
+        <entry key="ENGLISH" value="105" />
+        <entry key="KOREAN" value="110" />
       </map>
     </option>
   </component>
