@@ -39,6 +39,8 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
+    <option name="translationDialogLocationX" value="979" />
+    <option name="translationDialogLocationY" value="569" />
     <histories>
       <item value="우아한 연결종료 프로세스 추가" />
       <item value="ㅇ" />
