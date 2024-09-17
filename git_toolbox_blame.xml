@@ -1,0 +1,6 @@
+<application>
+  <component name="GitToolBoxBlameAppConfig">
+    <option name="showEditorInlineBlame" value="false" />
+    <option name="version" value="2" />
+  </component>
+</application>
