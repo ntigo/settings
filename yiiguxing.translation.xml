@@ -42,6 +42,7 @@
     <option name="translationDialogLocationX" value="979" />
     <option name="translationDialogLocationY" value="569" />
     <histories>
+      <item value="셧다운 프로세스를 시작합니다.&#10;" />
       <item value="응답코드 구조화" />
       <item value="응답코드 구조화 작업" />
       <item value="리플렉션을 사용하여 특정 패키지내 BasicException을 상속한 클래스를 찾습니다. " />
@@ -91,7 +92,6 @@
       <item value="Contents of collection 'apiNoMap' are updated, but never queried " />
       <item value="not permission" />
       <item value="not permi" />
-      <item value="no permission" />
     </histories>
     <option name="languageScores">
       <map>
