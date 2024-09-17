@@ -42,6 +42,25 @@
     <option name="translationDialogLocationX" value="979" />
     <option name="translationDialogLocationY" value="569" />
     <histories>
+      <item value="응답코드 구조화" />
+      <item value="응답코드 구조화 작업" />
+      <item value="리플렉션을 사용하여 특정 패키지내 BasicException을 상속한 클래스를 찾습니다. " />
+      <item value="리플렉션을 사용하여 특정 패키지내 BasicException을 상속한 클래스를 찾습니다. 구" />
+      <item value="리플렉션을 사용하여 특정 패키지내 BasicException을 상속한 클래스를 찾습니다." />
+      <item value="리플렉션을 사용하여 특정 패키지내 BasicException을 상속한 " />
+      <item value="리플렉션을 사용하여 특정 패키지내 BasicException을 ㅅ" />
+      <item value="리플렉션을 사용하여 특정 패키지내 BasicException을 상" />
+      <item value="리플렉션을 사용하여 특정 패키지내 BasicExce" />
+      <item value="리플렉션을 사용하여 특정 패키지내 BasicExcetpion" />
+      <item value="리플렉션을 사용하여 특정 패키지내 BasicExcetpi" />
+      <item value="리플렉션을 사용하여 특정 패키지내 BasicExc" />
+      <item value="리플렉션을 사용하여 특정 패키지내 Basic" />
+      <item value="리플렉션을 사용하여 특정 패키지내 " />
+      <item value="리플렉션을 사용하여 특정 P" />
+      <item value="리플렉션을 사용하여 특정 " />
+      <item value="리플렉션을 사용하여 BAssssi" />
+      <item value="리플렉션을 사용하여 " />
+      <item value="Relf" />
       <item value="BasicException을 상속받은 필드 네임을 가지고 있는 예외 발생" />
       <item value="BasicException을 상속받은 필드" />
       <item value="BasicException을 상속받은 " />
@@ -73,30 +92,11 @@
       <item value="not permission" />
       <item value="not permi" />
       <item value="no permission" />
-      <item value="no " />
-      <item value="폴리싱 " />
-      <item value="Polishing " />
-      <item value="패턴매칭을 통해 OGO 승인번호 검증" />
-      <item value="패턴매칭을 통해 OGO 승인번호" />
-      <item value="패턴매칭을 통해 오" />
-      <item value="OGO 승인번호" />
-      <item value="OGO 승인번" />
-      <item value="OGO" />
-      <item value="OG" />
-      <item value="패턴매칭을 통한 오고 승인번호 검증" />
-      <item value="패턴매칭을 통한 ㄱ" />
-      <item value="for ( String s : ano ) {&#10;                 &#10;             " />
-      <item value="for ( String s : ano ) {&#10;                 &#10;             }" />
-      <item value="through" />
-      <item value="패턴매칭을 통한 오" />
-      <item value="각종 클래스 이름 변경" />
-      <item value="각종 클래스 이름 변경 " />
-      <item value="각종 클래스 ㅇ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="123" />
-        <entry key="KOREAN" value="130" />
+        <entry key="ENGLISH" value="126" />
+        <entry key="KOREAN" value="133" />
       </map>
     </option>
   </component>
