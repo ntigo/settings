@@ -35,13 +35,34 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1726042127871" />
+    <option name="lastTrimTime" value="1726576137277" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="659" />
-    <option name="translationDialogLocationY" value="389" />
+    <option name="translationDialogLocationX" value="979" />
+    <option name="translationDialogLocationY" value="569" />
     <histories>
+      <item value="BasicException을 상속받은 필드 네임을 가지고 있는 예외 발생" />
+      <item value="BasicException을 상속받은 필드" />
+      <item value="BasicException을 상속받은 " />
+      <item value="BasicExc" />
+      <item value="Basic" />
+      <item value="Basi" />
+      <item value="BasicException을 상속 받고 필드네임이 있는 예외 발생 " />
+      <item value="BasicException을 상속 받고 " />
+      <item value="BasicException을 상속 받고" />
+      <item value="BasicException을 상속 받" />
+      <item value="BasicException을 상속 받은 " />
+      <item value="BasicException을 사" />
+      <item value="BasicException" />
+      <item value="BasicException 상속받은 예외 발생" />
+      <item value="BasicException 상속 예외 " />
+      <item value="BasicException 상속 " />
+      <item value="BasicException 상소" />
+      <item value="An" />
+      <item value="w" />
+      <item value="그 외 종류의 예외 발생&#10;" />
+      <item value="그 외 종류의 " />
       <item value="invalid response code but nothing happens" />
       <item value="유효하지 않은 응답 코드이지만 아무일도 일어나지 않습니다.&#10;" />
       <item value="유효하지 않은 응답 코드이지만 아무일도 일어나지 않습니다." />
@@ -71,32 +92,11 @@
       <item value="각종 클래스 이름 변경" />
       <item value="각종 클래스 이름 변경 " />
       <item value="각종 클래스 ㅇ" />
-      <item value="wl" />
-      <item value="Listens to the result of a ChannelFuture. The result of the asynchronous Channel I O operation is notified once this listener is added by calling ChannelFuture. addListener(GenericFutureListener). Return the control to the caller quickly operationComplete(Future) is directly called by an I O thread. Therefore, performing a time consuming task or a blocking operation in the handler method can cause an unexpected pause during I O. If you need to perform a blocking operation on I O completion, try to execute the operation in a different thread using a thread pool." />
-      <item value="Fixed config loading issue when starting server" />
-      <item value="서버 기동 시 컨피그 로딩 이슈 수정" />
-      <item value="서버 기동 시 컨피그" />
-      <item value="예외 규약 정리 및 예외 처리 기본 구조 추가" />
-      <item value="예외 규약 정리 및 예외 처리 기본 구조 개발" />
-      <item value="예외 규약 정리 및 옝" />
-      <item value="옝" />
-      <item value="기본 예외 규약 정리 및 Basic Exception 생성" />
-      <item value="기본 예외 규약 정리 및 Basic Exception " />
-      <item value="기본 예외 규약 정리 및 Basic Exception 개발 " />
-      <item value="기본 예외 규약 정리 및 Bas" />
-      <item value="기본 예외 규약 정리 및 " />
-      <item value="기본 " />
-      <item value="기보" />
-      <item value="r" />
-      <item value="api uri 정리 및 api 번호 부여 작업" />
-      <item value="api uri 정리 및 " />
-      <item value="d" />
-      <item value="disAgre" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="107" />
-        <entry key="KOREAN" value="114" />
+        <entry key="ENGLISH" value="123" />
+        <entry key="KOREAN" value="130" />
       </map>
     </option>
   </component>
