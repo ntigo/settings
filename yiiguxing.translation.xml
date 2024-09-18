@@ -39,9 +39,20 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="979" />
-    <option name="translationDialogLocationY" value="569" />
     <histories>
+      <item value="제 직업은 프로그래머에요" />
+      <item value="제 직업은 프로그래머" />
+      <item value="ㅁ" />
+      <item value="&#10;What about you? What do you do?" />
+      <item value="아주 멋진 꿈입니다.&#10;근데 왜 저에게 DM을 보내셨나요?" />
+      <item value="아주 멋진 꿈입니다.&#10;근데왜 저에게 DM을 보내셨나요?" />
+      <item value="아주 멋진 꿈입니다.&#10;근데&#10;왜 저에게 DM을 보내셨나요?" />
+      <item value="아주 멋진 꿈입니다.&#10;왜 저에게 DM을 보내셨나요?" />
+      <item value="ㅇ&#10;왜 저에게 DM을 보내셨나요?" />
+      <item value="&#10;왜 저에게 DM을 보내셨나요?" />
+      <item value="왜 저에게 DM을 보내셨나요?" />
+      <item value="왜 저에게 DM" />
+      <item value="왜 저에게 메세" />
       <item value="우아한 연결종료 프로세스 추가" />
       <item value="ㅇ" />
       <item value="우아한 연결 종료를 위한 처리 " />
@@ -79,24 +90,11 @@
       <item value="BasicException을 상속 받" />
       <item value="BasicException을 상속 받은 " />
       <item value="BasicException을 사" />
-      <item value="BasicException" />
-      <item value="BasicException 상속받은 예외 발생" />
-      <item value="BasicException 상속 예외 " />
-      <item value="BasicException 상속 " />
-      <item value="BasicException 상소" />
-      <item value="An" />
-      <item value="w" />
-      <item value="그 외 종류의 예외 발생&#10;" />
-      <item value="그 외 종류의 " />
-      <item value="invalid response code but nothing happens" />
-      <item value="유효하지 않은 응답 코드이지만 아무일도 일어나지 않습니다.&#10;" />
-      <item value="유효하지 않은 응답 코드이지만 아무일도 일어나지 않습니다." />
-      <item value="a" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="126" />
-        <entry key="KOREAN" value="133" />
+        <entry key="ENGLISH" value="128" />
+        <entry key="KOREAN" value="135" />
       </map>
     </option>
   </component>
