@@ -39,9 +39,15 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="979" />
-    <option name="translationDialogLocationY" value="569" />
     <histories>
+      <item value="이름이 뭐예요?" />
+      <item value="I didn't get the message. Did you add it by mistake?" />
+      <item value="야후스토어가 무슨 말인가요?" />
+      <item value="야후스토어가 무슨 " />
+      <item value="Did you add me? I'm off to finish processing a Yahoo store order. Didn't get a text~" />
+      <item value="등록했습니다. 프로필 사진이 인스타랑 다르네요." />
+      <item value="등록했습니다. 프로필 사진이 " />
+      <item value="s" />
       <item value="국가번호가 일본이네요?" />
       <item value="I prepared a kakao before I came to Korea and never used it. You can add me as my first friend~" />
       <item value="그렇죠. 너무 당연한 말이었네요." />
@@ -84,19 +90,11 @@
       <item value="a" />
       <item value="I don't read here much on occasion. Do you have any other contact info?&#10;&#10;Have you ever traveled to Hong Kong?" />
       <item value="I don't read here much on occasion. Do you have any other contact info?&#10;Super Mario&#10;Have you ever traveled to Hong Kong?" />
-      <item value="네 여행 중에 궁금한 것이 있다면 DM 보내주면 알려드릴게요." />
-      <item value="네 여행 중에 궁금한 것이 있다면 DM 보내주면 알려드리" />
-      <item value="네 여행 중에 궁금한 것이 있다면 DM 보내주면 알려" />
-      <item value="네 여행 중에 궁금한 것이 있다면 DM 보내줘" />
-      <item value="네 여행 중에 궁금한 것이 있다면 DM 보내줘ㅓ요" />
-      <item value="네 여행 중에 궁금한 것이 있다면 DM" />
-      <item value="네 여행 중에 궁금한 것이 있다면 " />
-      <item value="Can I ask you to be my tour guide then? Ha-ha-ha." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="168" />
-        <entry key="KOREAN" value="175" />
+        <entry key="ENGLISH" value="171" />
+        <entry key="KOREAN" value="178" />
       </map>
     </option>
   </component>
