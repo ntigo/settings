@@ -165,7 +165,6 @@
           </root>
         </sourcePath>
       </roots>
-      <additional />
     </jdk>
     <jdk version="2">
       <name value="1.8" />
