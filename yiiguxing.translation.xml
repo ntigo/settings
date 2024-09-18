@@ -39,62 +39,64 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
+    <option name="translationDialogLocationX" value="979" />
+    <option name="translationDialogLocationY" value="569" />
     <histories>
-      <item value="제 직업은 프로그래머에요" />
-      <item value="제 직업은 프로그래머" />
-      <item value="ㅁ" />
-      <item value="&#10;What about you? What do you do?" />
-      <item value="아주 멋진 꿈입니다.&#10;근데 왜 저에게 DM을 보내셨나요?" />
-      <item value="아주 멋진 꿈입니다.&#10;근데왜 저에게 DM을 보내셨나요?" />
-      <item value="아주 멋진 꿈입니다.&#10;근데&#10;왜 저에게 DM을 보내셨나요?" />
-      <item value="아주 멋진 꿈입니다.&#10;왜 저에게 DM을 보내셨나요?" />
-      <item value="ㅇ&#10;왜 저에게 DM을 보내셨나요?" />
-      <item value="&#10;왜 저에게 DM을 보내셨나요?" />
-      <item value="왜 저에게 DM을 보내셨나요?" />
-      <item value="왜 저에게 DM" />
-      <item value="왜 저에게 메세" />
-      <item value="우아한 연결종료 프로세스 추가" />
+      <item value="국가번호가 일본이네요?" />
+      <item value="I prepared a kakao before I came to Korea and never used it. You can add me as my first friend~" />
+      <item value="그렇죠. 너무 당연한 말이었네요." />
+      <item value="그렇죠. 너무 당연한 " />
+      <item value="그렇죠." />
+      <item value="그렇죠" />
+      <item value="There are good guys and bad guys in every city, aren't there?" />
+      <item value="네 카카오 아이디는 알려줄 수 있어요. ntigo" />
+      <item value="네 카카오 아이디는 알려줄 수 있어요. " />
+      <item value="네 카카오 아이디는 알려줄 수 있어요." />
+      <item value="네 카카오 아이" />
+      <item value="Do you use line or kakao?" />
+      <item value="서울은 치안이 좋은 도시지만, 사람의 좋은 마음을 이용하는 범죄들이 종종 일어나서 그런 이야기를 하곤 합니다." />
+      <item value="서울은 치안이 좋은 도시지만, 사람의 좋은 마음을 이용하는 범죄들이 종종 일어나서 그런 이야기를 " />
+      <item value="서울은 치안이 좋은 도시지만, 사람의 좋은 마음을 이용하는 범죄들이 종종 일어나서 " />
+      <item value="서울은 치안이 좋은 도시지만, 사람의 좋은 마음을 이용하는 " />
+      <item value="서울은 치안이 좋은 도시지만, 사람" />
+      <item value="서울은 치안이 좋은 도시지만," />
+      <item value="서울은 치안이 좋은 도시지만" />
+      <item value="ㅅ" />
+      <item value="g" />
+      <item value="Too bad. Hong Kong is a beautiful city to travel to, just like Seoul! Let me know if you have a chance to travel to Hong Kong next time and I'll be your excellent guide~" />
+      <item value="인연이된건 매우 반갑지만 아직 어떤 사람인지 잘 모르기 때문에 ^^" />
+      <item value="인연이된건 매우 반갑지만 아직 어떤 사람인지 잘 모르기 때문에 " />
+      <item value="인연이된건 매우 반갑지만 아직 어떤 사람인지 잘 몰" />
+      <item value="인연이된건 매우 반갑지만 아직 어떤 사람인지 ㅁ" />
+      <item value="ㅇ;" />
+      <item value="한국에서는 세상이 무섭다고 합니다." />
+      <item value="한국에서는 세상이 무섭다" />
+      <item value="한국에서는 " />
+      <item value="한국에서는 세사" />
+      <item value="요즘 세상이" />
+      <item value="요즘 " />
       <item value="ㅇ" />
-      <item value="우아한 연결 종료를 위한 처리 " />
-      <item value="우아한 연결 종료를 위한 " />
-      <item value="우아한 연결 종료를 위하" />
-      <item value="셧다운 프로세스를 시작합니다.&#10;" />
-      <item value="응답코드 구조화" />
-      <item value="응답코드 구조화 작업" />
-      <item value="리플렉션을 사용하여 특정 패키지내 BasicException을 상속한 클래스를 찾습니다. " />
-      <item value="리플렉션을 사용하여 특정 패키지내 BasicException을 상속한 클래스를 찾습니다. 구" />
-      <item value="리플렉션을 사용하여 특정 패키지내 BasicException을 상속한 클래스를 찾습니다." />
-      <item value="리플렉션을 사용하여 특정 패키지내 BasicException을 상속한 " />
-      <item value="리플렉션을 사용하여 특정 패키지내 BasicException을 ㅅ" />
-      <item value="리플렉션을 사용하여 특정 패키지내 BasicException을 상" />
-      <item value="리플렉션을 사용하여 특정 패키지내 BasicExce" />
-      <item value="리플렉션을 사용하여 특정 패키지내 BasicExcetpion" />
-      <item value="리플렉션을 사용하여 특정 패키지내 BasicExcetpi" />
-      <item value="리플렉션을 사용하여 특정 패키지내 BasicExc" />
-      <item value="리플렉션을 사용하여 특정 패키지내 Basic" />
-      <item value="리플렉션을 사용하여 특정 패키지내 " />
-      <item value="리플렉션을 사용하여 특정 P" />
-      <item value="리플렉션을 사용하여 특정 " />
-      <item value="리플렉션을 사용하여 BAssssi" />
-      <item value="리플렉션을 사용하여 " />
-      <item value="Relf" />
-      <item value="BasicException을 상속받은 필드 네임을 가지고 있는 예외 발생" />
-      <item value="BasicException을 상속받은 필드" />
-      <item value="BasicException을 상속받은 " />
-      <item value="BasicExc" />
-      <item value="Basic" />
-      <item value="Basi" />
-      <item value="BasicException을 상속 받고 필드네임이 있는 예외 발생 " />
-      <item value="BasicException을 상속 받고 " />
-      <item value="BasicException을 상속 받고" />
-      <item value="BasicException을 상속 받" />
-      <item value="BasicException을 상속 받은 " />
-      <item value="BasicException을 사" />
+      <item value="홍콩을 여행해본 적은 없어요. 다른 연락처 정보는 전달해주기 어렵네요." />
+      <item value="홍콩을 여행해본 적은 없어요. 다른 연락처 정보는 " />
+      <item value="홍콩을 여행해본 적은 없어요. 다른 연락처 정보는 더우" />
+      <item value="홍콩을 여행해본 적은 없어요. 다른 연락처" />
+      <item value="홍콩을 여행해본 적은 없어요." />
+      <item value="a" />
+      <item value="I don't read here much on occasion. Do you have any other contact info?&#10;&#10;Have you ever traveled to Hong Kong?" />
+      <item value="I don't read here much on occasion. Do you have any other contact info?&#10;Super Mario&#10;Have you ever traveled to Hong Kong?" />
+      <item value="네 여행 중에 궁금한 것이 있다면 DM 보내주면 알려드릴게요." />
+      <item value="네 여행 중에 궁금한 것이 있다면 DM 보내주면 알려드리" />
+      <item value="네 여행 중에 궁금한 것이 있다면 DM 보내주면 알려" />
+      <item value="네 여행 중에 궁금한 것이 있다면 DM 보내줘" />
+      <item value="네 여행 중에 궁금한 것이 있다면 DM 보내줘ㅓ요" />
+      <item value="네 여행 중에 궁금한 것이 있다면 DM" />
+      <item value="네 여행 중에 궁금한 것이 있다면 " />
+      <item value="Can I ask you to be my tour guide then? Ha-ha-ha." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="128" />
-        <entry key="KOREAN" value="135" />
+        <entry key="ENGLISH" value="168" />
+        <entry key="KOREAN" value="175" />
       </map>
     </option>
   </component>
