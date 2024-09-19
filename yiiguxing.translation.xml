@@ -39,9 +39,11 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="979" />
-    <option name="translationDialogLocationY" value="569" />
+    <option name="translationDialogLocationX" value="659" />
+    <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="표준 출력과 에러를 로그백 설정에 따르도록 수정" />
+      <item value="표준 출력을" />
       <item value="너는 지금 어디에서 자는거야?" />
       <item value="쉬는 날인데 할일이 많이 남아 있어" />
       <item value="쉬는 날인데 할" />
@@ -90,13 +92,11 @@
       <item value="뉴스 기사인가요?" />
       <item value="Yeah.&#10;Yahoo is little known in Korea now.&#10;After all, it's an outdated product.&#10;But at that time, Yahoo was popular all over Korea.&#10;It's only because of the rapid development of smart products and competition from portals like Naver&#10;and withdrew from the Korean market." />
       <item value="야후는 한국에서 철수한지 오래됐습니다." />
-      <item value="As far as I know Yahoo is also very popular in Korea, haven't you heard of it?" />
-      <item value="인스타그램에선 왜 슈퍼마리오라는 소개를 작성해놨나요?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="184" />
-        <entry key="KOREAN" value="192" />
+        <entry key="ENGLISH" value="185" />
+        <entry key="KOREAN" value="193" />
       </map>
     </option>
   </component>
