@@ -11,4 +11,7 @@
   <action id="IntentionActionAsAction_com.intellij.codeInsight.intention.impl.AddJavadocIntention">
     <keyboard-shortcut first-keystroke="shift alt back_quote" />
   </action>
+  <action id="OpenInlineChatAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
 </keymap>
