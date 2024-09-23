@@ -42,6 +42,13 @@
     <option name="translationDialogLocationX" value="656" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="exists" />
+      <item value="exist" />
+      <item value="ex" />
+      <item value="ㄷ" />
+      <item value="난수 생성 시 잘못된 seed 참조 이슈 수정" />
+      <item value="난수 생성 시 seed" />
+      <item value="난수 생성 시 " />
       <item value="타임아웃 핸들러 발생 시 예외처리 루틴 추가" />
       <item value="타임아웃 핸들러 발생 시 예외처리 " />
       <item value="표준 출력과 에러를 로그백 설정에 따르도록 수정" />
@@ -85,18 +92,11 @@
       <item value=" What are you thinking? I wasn't trying to provide you with a link" />
       <item value="어서줘봐요 어떤 링크인가?" />
       <item value="어서줘봐요 어떤 링크인가" />
-      <item value="제가 아까 제 직업이 뭐라고 했죠?" />
-      <item value="제가 아까 " />
-      <item value="네 잘되길 빕니다. 무슨 링크 주려고 하는건가요?" />
-      <item value="네 잘되길 빕니다. 무슨 링크 " />
-      <item value="네 잘되길 빕니다." />
-      <item value="I opened a store on the Yahoo platform. So I understand it~" />
-      <item value="뉴스 기사인가요?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="185" />
-        <entry key="KOREAN" value="193" />
+        <entry key="ENGLISH" value="186" />
+        <entry key="KOREAN" value="194" />
       </map>
     </option>
   </component>
