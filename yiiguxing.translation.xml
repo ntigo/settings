@@ -35,13 +35,14 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1727066807095" />
+    <option name="lastTrimTime" value="1727667724618" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="656" />
-    <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="비싼게 정답이다." />
+      <item value="비싼게 답이다." />
+      <item value="d" />
       <item value="exists" />
       <item value="exist" />
       <item value="ex" />
@@ -89,14 +90,11 @@
       <item value="야후 이야기를 자주 하길래.. 매장을 여" />
       <item value="야후 이야기를 자주 하길래.. " />
       <item value="야후 이야기를 자주 하길래.." />
-      <item value=" What are you thinking? I wasn't trying to provide you with a link" />
-      <item value="어서줘봐요 어떤 링크인가?" />
-      <item value="어서줘봐요 어떤 링크인가" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="186" />
-        <entry key="KOREAN" value="194" />
+        <entry key="ENGLISH" value="187" />
+        <entry key="KOREAN" value="195" />
       </map>
     </option>
   </component>
