@@ -39,6 +39,8 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
+    <option name="translationDialogLocationX" value="657" />
+    <option name="translationDialogLocationY" value="392" />
     <histories>
       <item value="비싼게 정답이다." />
       <item value="비싼게 답이다." />
