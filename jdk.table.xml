@@ -167,6 +167,25 @@
       </roots>
     </jdk>
     <jdk version="2">
+      <name value="Kotlin SDK" />
+      <type value="KotlinSDK" />
+      <homePath value="" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+    </jdk>
+    <jdk version="2">
       <name value="1.8" />
       <type value="JavaSDK" />
       <version value="java version &quot;1.8.0_291&quot;" />
