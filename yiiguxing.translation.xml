@@ -39,9 +39,24 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="657" />
-    <option name="translationDialogLocationY" value="392" />
+    <option name="translationDialogLocationX" value="659" />
+    <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="바인딩할 핸들러를 찾을 수 없어 바인딩을 진행하지 않음." />
+      <item value="바인딩할 핸들러를 찾을 수 없어 바인딩을 진행하지 않음.하지 못함." />
+      <item value="바인딩할 핸들러를 찾을 수 없어 바인딩을 진행ㅎ하지 못함." />
+      <item value="바인딩할 핸들러를 찾을 수 없어 바인딩ㅇ하지 못함." />
+      <item value="바인딩할 핸들러를 찾을 수 없어 바인딩 하지 못함." />
+      <item value="바인딩할 핸들러를 찾을 수 없어 바인딩 하지 " />
+      <item value="바인딩할 핸들러를 찾을 수 없" />
+      <item value="바인딩할 핸들러를 찾을 수 없습니다." />
+      <item value="바인딩할 핸들러 목록을 찾을 수 없습니다." />
+      <item value="바인딩할 핸들러 목록을 찾을 수 없어서 핸들러가 바인딩 되지 않았습니다." />
+      <item value="바인딩할 핸들러 목록을 찾을 수 없 핸들러가 바인딩 되지 않았습니다." />
+      <item value="바인딩할 핸들러 목록을 찾을 수 없습니다. 핸들러가 바인딩 되지 않았습니다." />
+      <item value="바인핸들러가 바인딩 되지 않았습니다." />
+      <item value="핸들러가 바인딩 되지 않았습니다." />
+      <item value="핸들러가 " />
       <item value="비싼게 정답이다." />
       <item value="비싼게 답이다." />
       <item value="d" />
@@ -77,21 +92,6 @@
       <item value="나는 단지 영어 메시지 " />
       <item value="나는 단지 영어 " />
       <item value="과한 생각이었다면 미안해요" />
-      <item value="과한 " />
-      <item value="저는 근데 어리숙하지 않아서 당할 일도 없긴해요." />
-      <item value="저는 근데 어리숙하지 않아서 당하지" />
-      <item value="저는 근데 어리숙하지 않아서 " />
-      <item value="한국에서 유행하는 유형의 범죄라서 혹시나 싶어서 물어봤어요." />
-      <item value="한국에서 유행하는 " />
-      <item value="한국에서 " />
-      <item value="Haha, you're thinking a little too much." />
-      <item value="But now Yahoo has summarized its previous failures and is now re-emerging as a cross-border e-commerce business.&#10;The scope of sales is very wide, I have a variety of product types in my store!&#10;The difference is that this time it is a global marketplace, with buyers and sellers coming from all over the world.&#10;At the same time,  is now re-entering the Korean market.&#10;Didn't you know?" />
-      <item value="야후 이야기를 자주 하길래.. 매장을 열었다길래 주려는지 알았죠." />
-      <item value="야후 이야기를 자주 하길래.. 매장을 열었다길래 주려는지 알았죠" />
-      <item value="야후 이야기를 자주 하길래.. 매장을 열" />
-      <item value="야후 이야기를 자주 하길래.. 매장을 여" />
-      <item value="야후 이야기를 자주 하길래.. " />
-      <item value="야후 이야기를 자주 하길래.." />
     </histories>
     <option name="languageScores">
       <map>
