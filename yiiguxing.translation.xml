@@ -39,9 +39,13 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="659" />
-    <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="준ㅅ" />
+      <item value="준수" />
+      <item value="compliant" />
+      <item value="compli" />
+      <item value="om" />
+      <item value="채ㅡ" />
       <item value="Modified level E vulnerability issue related to encryption key" />
       <item value="Modified level E vulnerability issue related to encryption key management" />
       <item value="Modi level E vulnerability issue related to encryption key management" />
@@ -86,17 +90,11 @@
       <item value="표준 출력을" />
       <item value="너는 지금 어디에서 자는거야?" />
       <item value="쉬는 날인데 할일이 많이 남아 있어" />
-      <item value="쉬는 날인데 할" />
-      <item value="Are you working this late?" />
-      <item value="I'm ready for bed, too. Sweet dream" />
-      <item value="일하고 있어요 먼저 주무세요" />
-      <item value="ㅇ" />
-      <item value="Yes.&#10;It's getting late. Get an early night." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="187" />
-        <entry key="KOREAN" value="196" />
+        <entry key="ENGLISH" value="190" />
+        <entry key="KOREAN" value="199" />
       </map>
     </option>
   </component>
