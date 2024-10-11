@@ -42,6 +42,11 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="adaptabilility&#10;" />
+      <item value="adaptabilili" />
+      <item value="adaptabili" />
+      <item value="ad" />
+      <item value="ㅁ" />
       <item value="준ㅅ" />
       <item value="준수" />
       <item value="compliant" />
@@ -87,16 +92,11 @@
       <item value="난수 생성 시 seed" />
       <item value="난수 생성 시 " />
       <item value="타임아웃 핸들러 발생 시 예외처리 루틴 추가" />
-      <item value="타임아웃 핸들러 발생 시 예외처리 " />
-      <item value="표준 출력과 에러를 로그백 설정에 따르도록 수정" />
-      <item value="표준 출력을" />
-      <item value="너는 지금 어디에서 자는거야?" />
-      <item value="쉬는 날인데 할일이 많이 남아 있어" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="190" />
-        <entry key="KOREAN" value="199" />
+        <entry key="ENGLISH" value="191" />
+        <entry key="KOREAN" value="200" />
       </map>
     </option>
   </component>
