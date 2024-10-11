@@ -39,9 +39,10 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="659" />
-    <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="인증 헤더 설명 수정" />
+      <item value="인증 헤더 설명 " />
+      <item value="인증 헤더 " />
       <item value="adaptabilility&#10;" />
       <item value="adaptabilili" />
       <item value="adaptabili" />
@@ -89,14 +90,11 @@
       <item value="ex" />
       <item value="ㄷ" />
       <item value="난수 생성 시 잘못된 seed 참조 이슈 수정" />
-      <item value="난수 생성 시 seed" />
-      <item value="난수 생성 시 " />
-      <item value="타임아웃 핸들러 발생 시 예외처리 루틴 추가" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="191" />
-        <entry key="KOREAN" value="200" />
+        <entry key="ENGLISH" value="192" />
+        <entry key="KOREAN" value="201" />
       </map>
     </option>
   </component>
