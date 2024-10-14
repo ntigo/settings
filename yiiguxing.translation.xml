@@ -39,6 +39,8 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
+    <option name="translationDialogLocationX" value="659" />
+    <option name="translationDialogLocationY" value="389" />
     <histories>
       <item value="API 문서 파일들을 추가하였으며 수동 병합을 통한 원본 문서 수정" />
       <item value="API 문서 파일들을 추가하였으며 수동 병합을 통한 " />
