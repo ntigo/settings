@@ -39,9 +39,12 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="659" />
-    <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="modified typos" />
+      <item value="modified tyo" />
+      <item value="modi" />
+      <item value="오탈자 수정" />
+      <item value="오탈자 수정&#10;" />
       <item value="인증 헤더 설명 수정" />
       <item value="인증 헤더 설명 " />
       <item value="인증 헤더 " />
@@ -87,16 +90,11 @@
       <item value="비싼게 정답이다." />
       <item value="비싼게 답이다." />
       <item value="d" />
-      <item value="exists" />
-      <item value="exist" />
-      <item value="ex" />
-      <item value="ㄷ" />
-      <item value="난수 생성 시 잘못된 seed 참조 이슈 수정" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="192" />
-        <entry key="KOREAN" value="201" />
+        <entry key="KOREAN" value="202" />
       </map>
     </option>
   </component>
