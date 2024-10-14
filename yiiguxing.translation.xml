@@ -40,6 +40,14 @@
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
     <histories>
+      <item value="API 문서 파일들을 추가하였으며 수동 병합을 통한 원본 문서 수정" />
+      <item value="API 문서 파일들을 추가하였으며 수동 병합을 통한 " />
+      <item value="API 문서 파일들을 추가하였으며 수동 병합을 통하" />
+      <item value="API 문서 파일들을 추가하였으며 수동 ㅁ" />
+      <item value="API 문서 파일들을 추가하였으며 수" />
+      <item value="API 문서 파일들을 추가하였으며 " />
+      <item value="API " />
+      <item value="수동 머ㅈ" />
       <item value="modified typos" />
       <item value="modified tyo" />
       <item value="modi" />
@@ -82,19 +90,11 @@
       <item value="바인딩할 핸들러를 찾을 수 없습니다." />
       <item value="바인딩할 핸들러 목록을 찾을 수 없습니다." />
       <item value="바인딩할 핸들러 목록을 찾을 수 없어서 핸들러가 바인딩 되지 않았습니다." />
-      <item value="바인딩할 핸들러 목록을 찾을 수 없 핸들러가 바인딩 되지 않았습니다." />
-      <item value="바인딩할 핸들러 목록을 찾을 수 없습니다. 핸들러가 바인딩 되지 않았습니다." />
-      <item value="바인핸들러가 바인딩 되지 않았습니다." />
-      <item value="핸들러가 바인딩 되지 않았습니다." />
-      <item value="핸들러가 " />
-      <item value="비싼게 정답이다." />
-      <item value="비싼게 답이다." />
-      <item value="d" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="192" />
-        <entry key="KOREAN" value="202" />
+        <entry key="ENGLISH" value="198" />
+        <entry key="KOREAN" value="207" />
       </map>
     </option>
   </component>
