@@ -42,6 +42,12 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="마이바티스에서 엔티티 생성 가능토록 변경" />
+      <item value="마이바티스에서 엔티" />
+      <item value="맡" />
+      <item value="엔티티 클ㄹ" />
+      <item value="엔티티 클래" />
+      <item value="d" />
       <item value="disagree" />
       <item value="dis" />
       <item value="API 문서 파일들을 추가하였으며 수동 병합을 통한 원본 문서 수정" />
@@ -86,17 +92,11 @@
       <item value="취야" />
       <item value="바인딩할 핸들러를 찾을 수 없어 바인딩을 진행하지 않음." />
       <item value="바인딩할 핸들러를 찾을 수 없어 바인딩을 진행하지 않음.하지 못함." />
-      <item value="바인딩할 핸들러를 찾을 수 없어 바인딩을 진행ㅎ하지 못함." />
-      <item value="바인딩할 핸들러를 찾을 수 없어 바인딩ㅇ하지 못함." />
-      <item value="바인딩할 핸들러를 찾을 수 없어 바인딩 하지 못함." />
-      <item value="바인딩할 핸들러를 찾을 수 없어 바인딩 하지 " />
-      <item value="바인딩할 핸들러를 찾을 수 없" />
-      <item value="바인딩할 핸들러를 찾을 수 없습니다." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="199" />
-        <entry key="KOREAN" value="209" />
+        <entry key="ENGLISH" value="200" />
+        <entry key="KOREAN" value="210" />
       </map>
     </option>
   </component>
