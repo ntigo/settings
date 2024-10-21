@@ -35,13 +35,14 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1729055627677" />
+    <option name="lastTrimTime" value="1729509011269" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="Client connected to NICE" />
       <item value="마이바티스에서 엔티티 생성 가능토록 변경" />
       <item value="마이바티스에서 엔티" />
       <item value="맡" />
@@ -91,12 +92,11 @@
       <item value="취약점 " />
       <item value="취야" />
       <item value="바인딩할 핸들러를 찾을 수 없어 바인딩을 진행하지 않음." />
-      <item value="바인딩할 핸들러를 찾을 수 없어 바인딩을 진행하지 않음.하지 못함." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="200" />
-        <entry key="KOREAN" value="210" />
+        <entry key="KOREAN" value="211" />
       </map>
     </option>
   </component>
