@@ -39,9 +39,10 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="659" />
-    <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="로그 수정 및 관련 기능 클래스 변경" />
+      <item value="로그 수정 및 관련 기능 클래스" />
+      <item value="로그 수정 및 " />
       <item value="Client connected to NICE" />
       <item value="마이바티스에서 엔티티 생성 가능토록 변경" />
       <item value="마이바티스에서 엔티" />
@@ -89,14 +90,11 @@
       <item value="암호화키 관취약점 E등급 이슈" />
       <item value="취약점 E등급 이슈" />
       <item value="취약점 E등급 " />
-      <item value="취약점 " />
-      <item value="취야" />
-      <item value="바인딩할 핸들러를 찾을 수 없어 바인딩을 진행하지 않음." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="200" />
-        <entry key="KOREAN" value="211" />
+        <entry key="ENGLISH" value="201" />
+        <entry key="KOREAN" value="212" />
       </map>
     </option>
   </component>
