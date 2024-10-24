@@ -42,6 +42,14 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="is direct ogo handler" />
+      <item value="is direct ogohandler" />
+      <item value="is direct ogohan" />
+      <item value="is direct ogohn" />
+      <item value="is direct ogo" />
+      <item value="is direct" />
+      <item value="is " />
+      <item value="isOGOHandlerRequired" />
       <item value="로그 수정 및 관련 기능 클래스 변경" />
       <item value="로그 수정 및 관련 기능 클래스" />
       <item value="로그 수정 및 " />
@@ -84,19 +92,11 @@
       <item value="Modified level E vulnerability issue related to encryption key" />
       <item value="Modified level E vulnerability issue related to encryption key management" />
       <item value="Modi level E vulnerability issue related to encryption key management" />
-      <item value="Mo level E vulnerability issue related to encryption key management" />
-      <item value="Corrected level E vulnerability issue related to encryption key management" />
-      <item value="암호화키 관리 관련 취약점 E등급 이슈 수정" />
-      <item value="암호화키 관리 관련 취약점 E등급 이슈" />
-      <item value="암호화키 관리취약점 E등급 이슈" />
-      <item value="암호화키 관취약점 E등급 이슈" />
-      <item value="취약점 E등급 이슈" />
-      <item value="취약점 E등급 " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="201" />
-        <entry key="KOREAN" value="212" />
+        <entry key="KOREAN" value="214" />
       </map>
     </option>
   </component>
