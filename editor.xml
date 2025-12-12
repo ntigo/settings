@@ -2,9 +2,6 @@
   <component name="CodeVisionSettings">
     <option name="enabled" value="false" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="AUTOREPARSE_DELAY" value="0" />
-  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="false" />

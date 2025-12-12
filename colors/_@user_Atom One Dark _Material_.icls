@@ -28,13 +28,12 @@
     <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <colors>
-    <option name="FILESTATUS_ADDED" value="98c379" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_ADDED" value="98C379" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72A038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
-    <option name="FILESTATUS_MODIFIED" value="e5c17c" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="LOOKUP_COLOR" value="2f333d" />
+    <option name="FILESTATUS_MODIFIED" value="E5C17C" />
+    <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
   </colors>
   <attributes>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
