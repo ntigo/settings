@@ -8,6 +8,7 @@
       <roots>
         <annotationsPath>
           <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/JetBrains/IntelliJ IDEA 2024.1.7/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
             <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
           </root>
         </annotationsPath>
