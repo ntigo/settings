@@ -12,6 +12,7 @@
     <entry key="ide.animate.toolwindows" value="true" source="SYSTEM" />
     <entry key="idea.islands.color.gradient.enabled" value="true" source="SYSTEM" />
     <entry key="ide.colorful.toolbar.gradient.radius" value="600" source="SYSTEM" />
+    <entry key="jetbrains.security.package-checker.enableNpmTransitiveDependencies" value="false" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
