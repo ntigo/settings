@@ -42,6 +42,7 @@
     <option name="translationDialogLocationX" value="659" />
     <option name="translationDialogLocationY" value="389" />
     <histories>
+      <item value="conversation compacted" />
       <item value="Determine" />
       <item value="TCP 옵션 추가" />
       <item value="TCP " />
@@ -91,11 +92,10 @@
       <item value="인증 헤더 설명 " />
       <item value="인증 헤더 " />
       <item value="adaptabilility&#10;" />
-      <item value="adaptabilili" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="KOREAN" value="222" />
       </map>
     </option>
